@@ -1,0 +1,1690 @@
+006c7f	"New Bridge" color (Shinbashi-iro)
+0048ba	Absolute Zero
+4c2f27	Acajou
+b0bf1a	Acid green
+7cb9e8	Aero
+c9ffe5	Aero blue
+b284be	African violet
+5d8aa8	Air Force blue (RAF)
+00308f	Air Force blue (USAF)
+72a0c1	Air superiority blue
+af002a	Alabama crimson
+f2f0e6	Alabaster
+f0f8ff	Alice blue
+e32636	Alizarin crimson
+c46210	Alloy orange
+efdecd	Almond
+5a6457	Aloeswood brown (Tonocha)
+6a432d	Aloewood-color (Kyara-iro)
+d6d6d6	Aluminum
+d2d9db	Aluminum foil
+e52b50	Amaranth
+9f2b68	Amaranth deep purple
+f19cbb	Amaranth pink
+ab274f	Amaranth purple
+d3212d	Amaranth red
+3b7a57	Amazon
+ffbf00	Amber
+ca6924	Amber (Kohaku-iro)
+ff7e00	Amber (SAE/ECE)
+3b3b6d	American blue
+391802	American bronze
+804040	American brown
+d3af37	American gold
+34b334	American green
+ff8b00	American orange
+ff9899	American pink
+431c53	American purple
+b32134	American red
+ff033e	American rose
+cfcfcf	American silver
+551b8c	American violet
+f2b400	American yellow
+9966cc	Amethyst
+f3c13a	Amur cork tree (Phellodendron amurense) (Kihada)
+f2f3f4	Anti-flash white
+cd9575	Antique brass
+665d1e	Antique bronze
+915c83	Antique fuchsia
+841b2d	Antique ruby
+faebd7	Antique white
+008000	Ao (English)
+66b447	Apple
+8db600	Apple green
+fbceb1	Apricot
+00ffff	Aqua
+86aba5	Aqua Blue color (Mizu-iro)
+7fffd4	Aquamarine
+d0ff14	Arctic lime
+c0c0c0	Argent
+4b5320	Army green
+8f9779	Artichoke
+e9d66b	Arylide yellow
+7dc242	Asda Green
+00dea4	Asda Green (1985)
+80c197	Asda Green (1994)
+66c992	Asda Green (1999)
+32ad61	Asda Green (2002)
+c86500	Asda Orange
+ca7309	Asda Orange (1968)
+b2beb5	Ash gray
+87a96b	Asparagus
+003a6c	Ateneo blue
+ff9966	Atomic tangerine
+a52a2a	Auburn
+fdee00	Aureolin
+6e7f80	AuroMetalSaurus
+568203	Avocado
+ff2052	Awesome
+63775b	Axolotl
+007fff	Azure
+f0ffff	Azure mist
+dbe9f4	Azureish white
+2e5894	B'dazzled blue
+89cff0	Baby blue
+a1caf1	Baby blue eyes
+f4c2c2	Baby pink
+fefefa	Baby powder
+857c55	Baiko brown (Baikōcha)
+ff91af	Baker-Miller pink
+21abcd	Ball blue
+fae7b5	Banana Mania
+ffe135	Banana yellow
+006a4e	Bangladesh green
+e94196	Barbie Pink
+e85395	Barbie Pink (1959-1975)
+d3419d	Barbie Pink (1975-1990)
+f364a2	Barbie Pink (1990-1999)
+f7238a	Barbie Pink (1999-2004)
+ff3988	Barbie Pink (2004-2005)
+fc419a	Barbie Pink (2005-2009)
+e0218a	Barbie Pink (Pantone)
+7c0a02	Barn red
+1dacd6	Battery charged blue
+848482	Battleship grey
+5fc9bf	Bayside
+98777b	Bazaar
+bcd4e6	Beau blue
+9f8170	Beaver
+f28e1c	Beer
+fa6e79	Begonia
+f5f5dc	Beige
+5d3f6a	Bellflower color (Kikyō-iro)
+352925	Betel nut dye (Binrōjizome)
+9c2542	Big dip o’ruby
+e88e5a	Big Foot Feet
+b14a30	Birch brown (Kabacha)
+ffe4c4	Bisque
+3d2b1f	Bistre
+967117	Bistre brown
+cae00d	Bitter lemon
+bfff00	Bitter lime
+fe6f5e	Bittersweet
+bf4f51	Bittersweet shimmer
+000000	Black
+171412	Black (Kokushoku)
+3d0c02	Black bean
+252321	Black chestnut oak (Kurotsurubami)
+1b1811	Black chocolate
+3b2f2f	Black coffee
+54626f	Black coral
+351e1c	Black kite (bird species) (Kurotobi)
+253529	Black leather jacket
+3b3c36	Black olive
+bfafb2	Black Shadows
+ffebcd	Blanched almond
+a57164	Blast-off bronze
+318ce7	Bleu de France
+ace5ee	Blizzard blue
+faf0be	Blond
+8a0303	Blood
+a41313	Blood (Animal)
+630f0f	Blood (organ)
+d1001c	Blood orange
+660000	Blood red
+f35336	Blood red (Benihi)
+0000ff	Blue
+1f75fe	Blue (Crayola)
+0093af	Blue (Munsell)
+0087bd	Blue (NCS)
+0018a8	Blue (Pantone)
+333399	Blue (pigment)
+0247fe	Blue (RYB)
+a2a2d0	Blue bell
+52593b	Blue Black Crayfish (Aoni)
+00b9fb	Blue bolt
+0088dc	Blue cola
+5dadec	Blue jeans
+4cb7a5	Blue lagoon
+0cbfe9	Blue raspberry
+126180	Blue sapphire
+2b2028	Blue violet (Shikon)
+5072a7	Blue yonder
+6699cc	Blue-gray
+0d98ba	Blue-green
+064e40	Blue-green (color wheel)
+3a6960	Blue-green (Seiheki)
+553592	Blue-magenta violet
+8a2be2	Blue-violet
+4d1a7f	Blue-violet (color wheel)
+7366bd	Blue-violet (Crayola)
+4f86f7	Blueberry
+1c1cf0	Bluebonnet
+de5d83	Blush
+542d24	Boiled red bean brown (Momoshiocha)
+79443b	Bole
+0095b6	Bondi blue
+e3dac9	Bone
+dde26a	Bored accent green
+0e9ca5	Boy red
+873260	Boysenberry
+0070ff	Brandeis blue
+87413f	Brandy
+b5a642	Brass
+ff631c	Brave orange
+e68364	Brewed mustard-brown (Tokigaracha)
+cb4154	Brick red
+ebecf0	Bright gray
+66ff00	Bright green
+bf94e4	Bright lavender
+d891ef	Bright lilac
+c32148	Bright maroon
+1974d2	Bright navy blue
+ff007f	Bright pink
+08e8de	Bright turquoise
+d19fe8	Bright ube
+ffaa1d	Bright yellow (Crayola)
+3399ff	Brilliant azure
+f4bbff	Brilliant lavender
+ff55a3	Brilliant rose
+fb607f	Brink pink
+004225	British racing green
+cd7f32	Bronze
+88540b	Bronze
+b08d57	Bronze (metallic)
+737000	Bronze yellow
+993300	Brown
+af593e	Brown (Crayola)
+964b00	Brown (traditional)
+5f1933	Brown Chocolate
+4a2c2a	Brown Coffee
+4b3c39	Brown rat grey (Dobunezumi)
+af6e4d	Brown sugar
+cc9966	Brown Yellow
+6b4423	Brown-nose
+1b4d3e	Brunswick green
+8c5939	Brushwood-dyed (Fushizome)
+ffc1cc	Bubble gum
+e7feff	Bubbles
+7bb661	Bud green
+f0dc82	Buff
+480607	Bulgarian rose
+800020	Burgundy
+deb887	Burlywood
+a17a74	Burnished brown
+cc5500	Burnt orange
+e97451	Burnt sienna
+8a3324	Burnt umber
+24a0ed	Button blue
+bd33a4	Byzantine
+702963	Byzantium
+536872	Cadet
+5f9ea0	Cadet blue
+a9b2c3	Cadet blue (Crayola)
+91a3b0	Cadet grey
+0a1195	Cadmium blue
+006b3c	Cadmium green
+ed872d	Cadmium orange
+b60c26	Cadmium purple
+e30022	Cadmium red
+7f3e98	Cadmium violet
+fff600	Cadmium yellow
+a67b5b	Café au lait
+4b3621	Café noir
+1e4d2b	Cal Poly Pomona green
+fcffa4	Calamansi
+a3c1ad	Cambridge blue
+c19a6b	Camel
+efbbcc	Cameo pink
+78866b	Camouflage green
+ffff99	Canary
+ffef00	Canary yellow
+ff0800	Candy apple red
+e4717a	Candy pink
+ffb95a	Cape jasmine or gardenia (Kuchinashi)
+00bfff	Capri
+592720	Caput mortuum
+ffd59a	Caramel
+c41e3a	Cardinal
+1ac1dd	Caribbean blue
+00cc99	Caribbean green
+960018	Carmine
+d70040	Carmine (M&amp;P)
+eb4c42	Carmine pink
+ff0038	Carmine red
+ffa6c9	Carnation pink
+b31b1b	Carnelian
+56a0d3	Carolina blue
+ed9121	Carrot orange
+00563f	Castleton green
+062a78	Catalina blue
+703642	Catawba
+b64925	Cattail color (the plant) (Kaba-iro)
+c95a49	Cedar Chest
+92a1cf	Ceil
+ace1af	Celadon
+007ba7	Celadon blue
+819c8b	Celadon color (Seiji-iro)
+2f847c	Celadon green
+b2ffff	Celeste
+4997d0	Celestial blue
+246bce	Celtic blue
+de3163	Cerise
+ec3b83	Cerise pink
+2a52be	Cerulean blue
+6d9bc3	Cerulean frost
+001440	Cetacean blue
+007aa5	CG blue
+e03c31	CG red
+a0785a	Chamoisee
+f7e7ce	Champagne
+f1ddcf	Champagne pink
+36454f	Charcoal
+232b2b	Charleston green
+d0748b	Charm
+e68fac	Charm pink
+dfff00	Chartreuse (traditional)
+ffa600	Cheese
+fcc9b9	Cherry blossom color (Sakura-iro)
+ac8181	Cherry blossom mouse (Sakuranezumi)
+ffb7c5	Cherry blossom pink
+954535	Chestnut
+60281e	Chestnut-leather brown (Kurikawacha)
+ffc34d	Chickadee
+de6fa1	China pink
+a8516e	China rose
+141414	Chinese black
+365194	Chinese blue
+cd8032	Chinese bronze
+ab381f	Chinese brown
+cc9900	Chinese gold
+d0db61	Chinese green
+f37042	Chinese orange
+de70a1	Chinese pink
+720b98	Chinese purple
+aa381e	Chinese red
+cd071e	Chinese red
+cccccc	Chinese silver
+856088	Chinese violet
+e2e5de	Chinese white
+ffb200	Chinese yellow
+b7702d	Chinese yellow tea-colored (Kigaracha)
+4aff00	Chlorophyll green
+7b3f00	Chocolate (traditional)
+3f000f	Chocolate brown
+58111a	Chocolate cosmos
+3c1421	Chocolate Kisses
+a8a9ad	Chrome aluminum
+ffa700	Chrome yellow
+98817b	Cinereous
+e34234	Cinnabar
+d2691e	Cinnamon
+cd607e	Cinnamon Satin
+e4d00a	Citrine
+933709	Citrine Brown
+9fa91f	Citron
+7f1734	Claret
+fbcce7	Classic rose
+8f583c	Clove-brown (Chōjicha)
+a96232	Clove-dyed (Chōjizome)
+181b26	Coarse wool color (Kachi-iro)
+0047ab	Cobalt blue
+965a3e	Coconut
+e9edf6	Coconut White
+524b2a	Codium fragile seaweed color (Miru-iro)
+6f4e37	Coffee
+3c3024	Cola
+c4d8e2	Columbia Blue
+ffffcc	Conditioner
+f88379	Congo pink
+665343	Contemplation in a tea garden (Rokōcha)
+eee0b1	Cookies and cream
+002e63	Cool black
+8c92ac	Cool grey
+b87333	Copper
+da8a67	Copper (Crayola)
+ad6f69	Copper penny
+cb6d51	Copper red
+996666	Copper rose
+ff3800	Coquelicot
+ff7f50	Coral
+f8674f	Coral color (Sango-iro)
+ff4040	Coral red
+fd7c6e	Coral reef
+f6a494	Coral Reef (Valspar Paint Color)
+893f45	Cordovan
+fbec5d	Corn
+faa945	Corn-colored (Tōmorokoshi-iro)
+93ccea	Cornflower
+6495ed	Cornflower blue
+fff8dc	Cornsilk
+2e2d88	Cosmic cobalt
+fff8e7	Cosmic latte
+ffbcd9	Cotton candy
+81613c	Coyote brown
+fffdd0	Cream
+dc143c	Crimson
+be0032	Crimson glory
+990000	Crimson red
+a7d8de	Crystal
+68a0b0	Crystal blue
+f5f5f5	Cultured
+00b7eb	Cyan (process)
+4e82b4	Cyan azure
+28589c	Cyan cobalt blue
+188bc2	Cyan cornflower blue
+4682bf	Cyan-blue azure
+58427c	Cyber grape
+ffd300	Cyber yellow
+f56fa1	Cyclamen
+752e23	Cypress bark color (Hihada-iro)
+6f3028	Cypress bark red (Benihibata)
+ffff31	Daffodil
+f0e130	Dandelion
+fddb6d	Dandelion (Crayola)
+00008b	Dark blue
+192236	Dark blue (Kon)
+1b294b	Dark blue lapis lazuli (Rurikon)
+666699	Dark blue-gray
+804a00	Dark bronze
+514100	Dark bronze (Coin)
+654321	Dark brown
+88654e	Dark brown-tangelo
+5d3954	Dark byzantium
+a40000	Dark candy apple red
+08457e	Dark cerulean
+333333	Dark charcoal
+986960	Dark chestnut
+490206	Dark chocolate
+3c1321	Dark chocolate (Hershey's)
+cd5b45	Dark coral
+26428b	Dark cornflower blue
+008b8b	Dark cyan
+536878	Dark electric blue
+aa6c39	Dark gold
+b8860b	Dark goldenrod
+a9a9a9	Dark gray (X11)
+013220	Dark green
+006400	Dark green (X11)
+1f262a	Dark gunmetal
+00147e	Dark imperial blue
+00416a	Dark imperial blue
+614e6e	Dark indigo (Futaai)
+1a2421	Dark jungle green
+bdb76b	Dark khaki
+483c32	Dark lava
+734f96	Dark lavender
+8bbe1b	Dark lemon lime
+534b4f	Dark liver
+543d37	Dark liver (horses)
+8b008b	Dark magenta
+003366	Dark midnight blue
+4a5d23	Dark moss green
+02075d	Dark Navy
+556b2f	Dark olive green
+ff8c00	Dark orange
+9932cc	Dark orchid
+779ecb	Dark pastel blue
+03c03c	Dark pastel green
+966fd6	Dark pastel purple
+c23b22	Dark pastel red
+e75480	Dark pink
+003399	Dark powder blue
+4f3a3c	Dark puce
+301934	Dark purple
+872657	Dark raspberry
+8b0000	Dark red
+23191e	Dark red (Kurobeni)
+e9967a	Dark salmon
+560319	Dark scarlet
+8fbc8f	Dark sea green
+3c1414	Dark sienna
+71706e	Dark silver
+8cbed6	Dark sky blue
+483d8b	Dark slate blue
+2f4f4f	Dark slate gray
+177245	Dark spring green
+918151	Dark tan
+ffa812	Dark tangerine
+cc4e5c	Dark terra cotta
+00ced1	Dark turquoise
+d1bea8	Dark vanilla
+9400d3	Dark violet
+9b870c	Dark yellow
+00703c	Dartmouth green
+555555	Davy's grey
+fa7b62	Dawn-color (Akebono-iro)
+ff8936	Daylily-colored (Kanzō-iro)
+d70a53	Debian red
+d57835	Decaying leaves color (Kuchiba-iro)
+9c8aa4	Deep amethyst
+40826d	Deep aquamarine
+a9203e	Deep carmine
+ef3038	Deep carmine pink
+e9692c	Deep carrot orange
+da3287	Deep cerise
+fad6a5	Deep champagne
+b94e48	Deep chestnut
+704241	Deep coffee
+9b351b	Deep dumpling
+c154c1	Deep fuchsia
+056608	Deep green
+0e7c61	Deep green-cyan turquoise
+004b49	Deep jungle green
+333366	Deep koamaru
+f5c71a	Deep lemon
+9955bb	Deep lilac
+cc00cc	Deep magenta
+820000	Deep maroon
+d473d4	Deep mauve
+355e3b	Deep moss green
+ffcba4	Deep peach
+ff1493	Deep pink
+a95c68	Deep puce
+3a243b	Deep purple (Kokimurasaki)
+850101	Deep red
+843f5b	Deep ruby
+ff9933	Deep saffron
+7b3b3a	Deep scarlet (Kokiake)
+4a646c	Deep Space Sparkle
+7e5e60	Deep taupe
+66424d	Deep Tuscan red
+330066	Deep violet
+ba8759	Deer
+6ab2ca	Delicate girl blue
+1560bd	Denim
+2243b6	Denim blue
+669999	Desaturated cyan
+edc9af	Desert sand
+ea3c53	Desire
+b9f2ff	Diamond
+696969	Dim gray
+c53151	Dingy Dungeon
+9b7653	Dirt
+b5651e	Dirty brown
+e8e4c9	Dirty white
+3f313a	Disappearing purple (Metsushi)
+1e90ff	Dodger blue
+fef65b	Dodie yellow
+d71868	Dogwood rose
+85bb65	Dollar bill
+828e84	Dolphin gray
+2496cd	Douban Blue
+2e963d	Douban Green
+f7c58e	Douban Light Yellow
+755d5b	Dove feather grey (Hatobanezumi)
+00009c	Duke blue
+4f4944	Dull blue (Aonibi)
+b07939	Durian
+e6d0ab	Durian White
+e1bd27	Durian Yellow
+e5ccc9	Dust storm
+efdfbb	Dutch white
+913225	Dyestalk red (lit. the color from dying with the stalk of the beni plant) (Bengara-iro)
+e1a95f	Earth yellow
+5d3a1a	Earthtone
+555d50	Ebony
+c2b280	Ecru
+1b1b1b	Eerie black
+ffa631	Egg-colored (Tamago-iro)
+614051	Eggplant
+f0ead6	Eggshell
+e2be9f	Eggshell paper-colored (Torinoko-iro)
+1034a6	Egyptian blue
+17182b	Elderberry
+7df9ff	Electric blue
+b56257	Electric brown
+ff003f	Electric crimson
+00ff00	Electric green
+6f00ff	Electric indigo
+ccff00	Electric lime
+ff3503	Electric orange
+f62681	Electric pink
+bf00ff	Electric purple
+e60000	Electric red
+3f00ff	Electric ultramarine
+8f00ff	Electric violet
+ffff33	Electric yellow
+50c878	Emerald
+046307	Emerald green
+6c3082	Eminence
+b48395	English lavender
+ab4b52	English red
+cc474b	English vermillion
+563c5c	English violet
+96c8a2	Eton blue
+44d7a8	Eucalyptus
+39569c	Facebook Blue
+b0927a	Faded Sen no Rikyu's tea (Rikyūshiracha)
+9b533f	Faded spicy red-brown (Sōdenkaracha)
+43242a	Fake purple (Nisemurasaki)
+801818	Falu red
+b53389	Fandango
+de5285	Fandango pink
+f400a1	Fashion fuchsia
+e5aa70	Fawn
+4d5d53	Feldgrau
+fdd5b1	Feldspar
+4f7942	Fern green
+ff2800	Ferrari red
+6c541e	Field drab
+ff5470	Fiery rose
+957b38	Finch-brown (Cardueline finch) (Hiwacha)
+ce2029	Fire engine red
+e95c4b	Fire opal
+b22222	Firebrick
+e25822	Flame
+fc8eac	Flamingo pink
+f7e98e	Flavescent
+eedc82	Flax
+ffe9d1	Flesh
+216bd6	Flickr Blue
+fb0081	Flickr Pink
+a2006d	Flirt
+473f2d	Flirtatious indigo tea (Aikobicha)
+ffb94e	Floral leaf-colored (Hanaba-iro or kayou-iro)
+fffaf0	Floral white
+f498ad	Flower girl
+15f4ee	Fluorescent blue
+ff004f	Folly
+c91f37	Foreign crimson (Karakurenai)
+228b22	Forest Green
+5fa777	Forest green (Crayola)
+014421	Forest green (traditional)
+985629	Fox-color (Kitsune-iro)
+856d4d	French bistre
+0072bb	French blue
+fd3f92	French fuchsia
+86608e	French lilac
+9efd38	French lime
+fd6c9e	French pink
+811453	French plum
+4e1609	French puce
+c72c48	French raspberry
+f64a8a	French rose
+77b5fe	French sky blue
+8806ce	French violet
+ac1e44	French wine
+a6e7ff	Fresh Air
+5b8930	Fresh onion (Moegi)
+e936a7	Frostbite
+ff00ff	Fuchsia
+ff77ff	Fuchsia pink
+cc397b	Fuchsia purple
+c74375	Fuchsia rose
+e48400	Fulvous
+cc6666	Fuzzy Wuzzy
+dcdcdc	Gainsboro
+e49b0f	Gamboge
+ffb61e	Gamboge (Tōō)
+996600	Gamboge orange (brown)
+ffdf46	Gargoyle Gas
+733635	Garnet
+007f66	Generic viridian
+f8f8ff	Ghost white
+b05c52	Giant's Club
+fe5a1d	Giants orange
+d8e4bc	Gin
+6082b6	Glaucous
+d34e36	Glazed persimmon (Terigaki)
+ab92b3	Glossy grape
+00ab66	GO green
+a57c00	Gold
+e6be8a	Gold (Crayola)
+d4af37	Gold (metallic)
+bd9b16	Gold foil
+85754e	Gold Fusion
+cb7e1f	Gold-brown (Yamabukicha)
+ffd700	Golden
+996515	Golden brown
+c66b27	Golden brown (Kincha)
+e29c45	Golden fallen leaves (Kikuchiba)
+bb8141	Golden oak (Kitsurubami)
+fcc200	Golden poppy
+ffdf00	Golden yellow
+ffa400	Golden yellow (and a particular rose varietal) (Yamabuki-iro)
+7d4e2d	Golden-grey bamboo (dried and weathered) (Kinsusutake)
+daa520	Goldenrod
+4c8bf5	Google Chrome blue
+1aa260	Google Chrome green
+de5246	Google Chrome red
+ffce44	Google Chrome yellow
+203838	Goryeo storeroom (Kōrainando)
+676767	Granite gray
+a8e4a0	Granny Smith apple
+6f2da8	Grape
+63424b	Grape mouse (Budōnezumi)
+bebebe	Gray (X11 gray)
+465945	Gray-asparagus
+008001	Green
+1cac78	Green (Crayola)
+2a603b	Green (Midori)
+00a877	Green (Munsell)
+009f6b	Green (NCS)
+00ad43	Green (Pantone)
+00a550	Green (pigment)
+66b032	Green (RYB)
+006442	Green bamboo color (Aotake-iro)
+4c721d	Green Cola
+a7f432	Green Lizard
+6eaea1	Green Sheen
+65ff00	Green slime
+824b35	Green tea-colored (Sencha-iro)
+1164b4	Green-blue
+2887c8	Green-blue (Crayola)
+009966	Green-cyan
+adff2f	Green-yellow
+f0e891	Green-yellow (Crayola)
+bda928	Greenfinch color (Hiwa-iro)
+bc2d29	Greyed red (lit. silvered red) (Ginshu)
+656255	Greyish dark green (Rikyūnezumi)
+a99a86	Grullo
+2a3439	Gunmetal
+00ff7f	Guppie green
+f8f8f8	Guyabano
+663854	Halayà úbe
+8d608c	Half color (Hashita-iro)
+eb6123	Halloween orange
+446ccf	Han blue
+5218fa	Han purple
+757d75	Harbor rat (Minatonezumi)
+3fff00	Harlequin
+46cb18	Harlequin green
+f29cb7	Harmonious rose
+da9100	Harvest gold
+00c3e3	Hawaii blue
+808000	Heart gold
+ff7a00	Heat Wave
+df73ff	Heliotrope
+aa98a9	Heliotrope gray
+aa00bb	Heliotrope magenta
+f0fff0	Honeydew
+006db0	Honolulu blue
+49796b	Hooker's green
+3d5d42	Horsetail color (Tokusa-iro)
+ff1dce	Hot magenta
+ff69b4	Hot pink
+cf0a2c	Huawei Red
+ed1c24	Huawei Red (1987-2018)
+f58f84	Ibis wing color (Tokiha-iro)
+71a6d2	Iceberg
+923c01	Iced tea
+fcf75e	Icterine
+71bc78	Iguana green
+319177	Illuminating emerald
+602f6b	Imperial
+002395	Imperial blue
+66023c	Imperial purple
+ed2939	Imperial red
+b2ec5d	Inchworm
+4c516d	Independence
+138808	India green
+cd5c5c	Indian red
+e3a857	Indian yellow
+4b0082	Indigo
+233067	Indigo (rainbow)
+2e372e	Indigo Codium fragile seaweed brown (Aimirucha)
+091f92	Indigo dye
+393432	Indigo ink brown (Aisumicha)
+ebf6f7	Indigo white (Aijiro)
+ff496c	Infra red
+27221f	Ink color (Sumi-iro)
+2d4436	Insect screen (Mushiao)
+c6c2b6	Inside of a bottle (Kamenozoki)
+360ccc	Interdimensional blue
+ff4f00	International orange (aerospace)
+ba160c	International orange (engineering)
+c0362c	International orange (Golden Gate Bridge)
+5a4fcf	Iris
+763568	Iris color (Ayame-iro)
+a19d94	Iron
+2b3733	Iron color (Tetsu-iro)
+344d56	Iron head flower color (Noshimehana-iro)
+2b3736	Iron storage (Tetsuonando)
+b3446c	Irresistible
+f4f0ec	Isabelline
+009000	Islamic green
+e9f6ef	Italian ice
+635a52	Italian leather
+906652	Italian roast
+fffff0	Ivory
+5e5545	Iwai brown (Iwaicha)
+3d325d	Jacarta
+413628	Jacko bean
+00a86b	Jade
+9d2933	Japanese carmine
+264348	Japanese indigo
+7f5d3b	Japanese iris and sooty bamboo (Higosusutake)
+2f7532	Japanese laurel
+e2b13c	Japanese triandra grass (Themeda japonica) (Kariyasu)
+5b3256	Japanese violet
+f8de7e	Jasmine
+d73b3e	Jasper
+de8f4e	Jasper orange
+a50b5e	Jazzberry jam
+da614e	Jelly bean
+44798e	Jelly bean blue
+343434	Jet
+bbd0c9	Jet stream
+f4ca16	Jonquil
+8ab9f1	Jordy blue
+bdda57	June bud
+29ab87	Jungle green
+4cbb17	Kelly green
+7c1c05	Kenyan copper
+3ab09e	Keppel
+e8f48c	Key lime
+3d4c51	Kimono storage (Omeshionando)
+8ee53f	Kiwi
+882d17	Kobe
+e79fc4	Kobi
+354230	Kombu green
+512888	KSU purple
+e8000d	KU crimson
+fb9912	Kumquat
+d6cadd	Languid lavender
+e0bc5b	Lanzones
+26619c	Lapis lazuli
+1f4788	Lapis lazuli color (Ruri-iro)
+ffff66	Laser lemon
+a9ba9d	Laurel green
+cf1020	Lava
+b57edc	Lavender (floral)
+ccccff	Lavender blue
+fff0f5	Lavender blush
+c4c3d0	Lavender gray
+9457eb	Lavender indigo
+ee82ee	Lavender magenta
+e6e6fa	Lavender mist
+fbaed2	Lavender pink
+967bb6	Lavender purple
+fba0e3	Lavender rose
+7cfc00	Lawn green
+2e211b	Legal dye (from when color use was regulated by class) (Kenpōzome)
+fff700	Lemon
+fffacd	Lemon chiffon
+cca01d	Lemon curry
+fdff00	Lemon glacier
+bd3000	Lemon iced tea
+e3ff00	Lemon lime
+5cff67	Lemon lime
+f6eabe	Lemon meringue
+fff44f	Lemon yellow
+ffff9f	Lemon yellow (Crayola)
+ba93d8	Lenurple
+545aa7	Liberty
+1a1110	Licorice
+add8e6	Light blue
+48929b	Light blue color (Asagi-iro)
+1d697c	Light blue flower (Hanaasagi)
+044f67	Light blue silk (Hanada)
+b5651d	Light brown
+e66771	Light carmine pink
+551f2f	Light chocolate cosmos
+88ace0	Light cobalt blue
+f08080	Light coral
+f56991	Light crimson
+e0ffff	Light cyan
+ff5ccd	Light deep pink
+c8ad7f	Light French beige
+f984ef	Light fuchsia pink
+b29700	Light gold
+fafad2	Light goldenrod yellow
+d3d3d3	Light gray
+cc99cc	Light grayish magenta
+90ee90	Light green
+ffb3de	Light hot pink
+f0e68c	Light khaki
+ff80ff	Light magenta
+d39bcb	Light medium orchid
+addfad	Light moss green
+fed8b1	Light orange
+e6a8d7	Light orchid
+b19cd9	Light pastel purple
+c5cbe1	Light periwinkle
+ffb6c1	Light pink
+ffcccb	Light red
+ffa07a	Light salmon
+ff9999	Light salmon pink
+20b2aa	Light sea green
+d8d8d8	Light silver
+87cefa	Light sky blue
+778899	Light slate gray
+b0c4de	Light steel blue
+b38b6d	Light taupe
+ffffe0	Light yellow
+f7bb7d	Light yellow (Asagi)
+c8a2c8	Lilac
+ae98aa	Lilac Luster
+32cd32	Lime green
+d1e189	Lime pulp
+9dc209	Limerick
+195905	Lincoln green
+faf0e6	Linen
+0072b1	Linkedin Blue
+6ca0dc	Little boy blue
+f8b9d4	Little girl pink
+674c47	Liver
+b86d29	Liver (dogs)
+6c2e1f	Liver (organ)
+987456	Liver chestnut
+b95754	Long spring (season) color (Chōshun-iro)
+ab6134	Loquat (tree) brown (Biwacha)
+fefdfa	Lotion
+15f2fd	Lotion blue
+eccfcf	Lotion pink
+ffe4cd	Lumber
+e62020	Lust
+dc5349	Lychee
+7f6b5d	Lye-colored (Aku-iro)
+ffbd88	Macaroni and Cheese
+cc3336	Madder Lake
+ca1f7b	Magenta (dye)
+d0417e	Magenta (Pantone)
+ff0090	Magenta (process)
+9f4576	Magenta haze
+cc338b	Magenta-pink
+aaf0d1	Magic mint
+ff4466	Magic Potion
+f8f4ff	Magnolia
+c04000	Mahogany
+f2c649	Maize (Crayola)
+6050dc	Majorelle blue
+0bda51	Malachite
+979aaa	Manatee
+f37a48	Mandarin
+fdbe02	Mango
+96ff00	Mango green
+ff8243	Mango Tango
+e7c9a9	Manila
+74c365	Mantis
+bb9351	Maple syrup
+880085	Mardi Gras
+f2d930	Margarine
+b0c24a	Margarita
+eaa221	Marigold
+5e2824	Maroon (Shrimp brown) (Ebicha)
+b03060	Maroon (X11)
+e0b0ff	Mauve
+915f6d	Mauve taupe
+ef98aa	Mauvelous
+47abcc	Maximum blue
+30bfbf	Maximum blue green
+acace6	Maximum blue purple
+5e8c31	Maximum green
+d9e650	Maximum green yellow
+ff5b00	Maximum orange
+733380	Maximum purple
+d92121	Maximum red
+a63a79	Maximum red purple
+fafa37	Maximum yellow
+f2ba49	Maximum yellow red
+4c9141	May green
+73c2fb	Maya blue
+e5b73b	Meat brown
+f9906f	Meat-color (Shishi-iro)
+66ddaa	Medium aquamarine
+0000cd	Medium blue
+e2062c	Medium candy apple red
+af4035	Medium carmine
+f3e5ab	Medium champagne
+c93756	Medium crimson (dye) (Nakabeni)
+035096	Medium electric blue
+1c352d	Medium jungle green
+dda0dd	Medium lavender magenta
+ba55d3	Medium orchid
+0067a5	Medium Persian blue
+9370db	Medium purple
+bb3385	Medium red-violet
+aa4069	Medium ruby
+3cb371	Medium sea green
+80daeb	Medium sky blue
+7b68ee	Medium slate blue
+c9dc87	Medium spring bud
+00fa9a	Medium spring green
+48d1cc	Medium turquoise
+d9603b	Medium vermilion
+c71585	Medium violet-red
+fdbcb4	Melancholy
+f8b878	Mellow apricot
+febaad	Melon
+c1f9a2	Menthol
+32527b	Metallic blue
+a97142	Metallic bronze
+ac4313	Metallic brown
+296e01	Metallic green
+da680f	Metallic orange
+eda6c4	Metallic pink
+a62c2b	Metallic red
+0a7e8c	Metallic Seaweed
+9c7c38	Metallic Sunburst
+5b0a91	Metallic violet
+fdcc0d	Metallic yellow
+e4007c	Mexican pink
+00a2ed	Microsoft blue
+0078d7	Microsoft Edge blue
+7db700	Microsoft green
+f04e1f	Microsoft red
+fdb900	Microsoft yellow
+7ed4e6	Middle blue
+8dd9cc	Middle blue green
+8b72be	Middle blue purple
+4d8c57	Middle green
+acbf60	Middle green yellow
+8b8680	Middle grey
+d982b5	Middle purple
+e58e73	Middle red
+a55353	Middle red purple
+ffeb00	Middle yellow
+ecb176	Middle yellow red
+702670	Midnight
+191970	Midnight blue
+00468c	Midnight blue
+004953	Midnight green (eagle green)
+ffc40c	Mikado yellow
+fdfff5	Milk
+84563c	Milk chocolate
+ffdae9	Mimi pink
+e3f988	Mindaro
+36747d	Ming
+f5e050	Minion yellow
+3eb489	Mint
+f5fffa	Mint cream
+98ff98	Mint green
+bbb477	Misty moss
+ffe4e1	Misty rose
+bea493	Mocha
+3aa8c1	Moonstone
+73a9c2	Moonstone blue
+ae0c00	Mordant red 19
+8da399	Morning blue
+8b7d3a	Moss color (Koke-iro)
+8a9a5b	Moss green
+30ba8f	Mountain Meadow
+997a8d	Mountbatten pink
+5c544e	Mousy indigo (Ainezumi)
+766980	Mousy wisteria (Fujinezumi)
+18453b	MSU green
+70543e	Mud
+cb6649	Muddy brown (lit. the brown of a distant river) (Enshūcha)
+306030	Mughal green
+c54b8c	Mulberry
+c8509b	Mulberry (Crayola)
+59292c	Mulberry dye (Kuwazome)
+c57f2e	Mulberry-dyed (Kuwazome)
+ffdb58	Mustard
+cd7a00	Mustard brown
+6e6e30	Mustard green
+e1ad01	Mustard yellow
+317873	Myrtle green
+d65282	Mystic
+ad4379	Mystic maroon
+ff5500	Mystic red
+f6adc6	Nadeshiko pink
+2a8000	Napier green
+fada5e	Naples yellow
+ffdead	Navajo white
+000080	Navy blue
+191f45	Navy blue bellflower (Konkikyō)
+1b03a3	Neon blue
+ffa343	Neon Carrot
+fe4164	Neon Fuchsia
+39ff14	Neon green
+214fc6	New Car
+d7837f	New York pink
+727472	Nickel
+5c4827	Nightingale-brown (greenish brown) (Uguisucha)
+e4000f	Nintendo red
+a4dded	Non-photo blue
+059033	North Texas Green
+e9ffdb	Nyanza
+4f42b5	Ocean Blue
+0077be	Ocean boat blue
+48bf91	Ocean green
+cc7722	Ochre
+ff4e20	Ochre (earthen yellow-red-brown) (Ōtan)
+be7f51	Ochre (lit. earthen yellow) (Ōdo-iro)
+fd5240	Ogre Odor
+5e644f	Old bamboo color (Oitake-iro)
+43302e	Old burgundy
+cfb53b	Old gold
+fdf5e6	Old lace
+796878	Old lavender
+673147	Old mauve
+867e36	Old moss green
+c08081	Old rose
+6b8e23	Olive Drab #3
+3c341f	Olive Drab #7
+b5b35c	Olive green
+9ab973	Olivine
+364141	Onando color (Onando-iro)
+f08f90	One kin (0.6 kg) dye (Ikkonzome)
+353839	Onyx
+a8c3bc	Opal
+b784a7	Opera mauve
+ff1b2d	Opera Red
+4d646c	Opposite flower color (Masuhana-iro)
+ff6600	Orange
+ff7f00	Orange (color wheel)
+ff7538	Orange (Crayola)
+ff5800	Orange (Pantone)
+fb9902	Orange (RYB)
+ff9f00	Orange peel
+fa5b3d	Orange soda
+eb593d	Orange soda
+ff681f	Orange-red
+ff5349	Orange-red (Crayola)
+f5bd1f	Orange-yellow
+f8d568	Orange-yellow (Crayola)
+da70d6	Orchid
+e29cd2	Orchid (Crayola)
+f2bdcd	Orchid pink
+fb4f14	Orioles orange
+841617	OU Crimson red
+414a4c	Outer space
+2d383a	Outer space (Crayola)
+ff6e4a	Outrageous Orange
+e35c38	Overdyed/refreshed red-brown (Sohi)
+002147	Oxford blue
+6d9a79	Oxley
+1ca9c9	Pacific blue
+6b4947	Painite
+006600	Pakistan green
+273be2	Palatinate blue
+682860	Palatinate purple
+8c9c76	Pale blue (Usuao)
+afeeee	Pale Blue / Pale Turquoise
+987654	Pale Brown
+9bc4e2	Pale cerulean
+ddadaf	Pale Chestnut
+abcdef	Pale Cornflower Blue
+87d3f8	Pale Cyan
+aa8736	Pale fallen leaves (Aokuchiba)
+eee8aa	Pale goldenrod
+98fb98	Pale Green
+749f8d	Pale green onion (Mizuasagi)
+ffa565	Pale incense (Usukō)
+dcd0ff	Pale lavender
+f984e5	Pale Magenta
+ff99cc	Pale Magenta-Pink
+bba46d	Pale oak (Aoshirotsurubami)
+fca474	Pale persimmon (Usugaki)
+fadadd	Pale pink
+fae6fa	Pale purple (Pantone)
+db7093	Pale red-violet
+96ded1	Pale robin egg blue
+c9c0bb	Pale silver
+ecebbd	Pale spring bud
+bc987e	Pale taupe
+cc99ff	Pale Violet
+8db255	Pale young green onion (Usumoegi)
+6f9940	Palm Leaf
+0040be	Panasonic blue
+78184a	Pansy purple
+009b7d	Paolo Veronese green
+ffefd5	Papaya whip
+e63e62	Paradise pink
+7eb6ff	Parakeet Blue
+d998a0	Parrot Pink
+aec6cf	Pastel blue
+836953	Pastel brown
+cfcfc4	Pastel gray
+77dd77	Pastel green
+f49ac2	Pastel magenta
+ffb347	Pastel orange
+dea5a4	Pastel pink
+b39eb5	Pastel purple
+ff6961	Pastel red
+cb99c9	Pastel violet
+fdfd96	Pastel yellow
+407a52	Patina (Rokushō)
+800080	Patriarch
+d9b611	Patrinia flowers (Patrinia scabiosaefolia) (Ominaeshi)
+ffe5b4	Peach
+f39998	Peach Burst
+ffdab9	Peach puff
+f47983	Peach-colored (Momo-iro)
+ffcc99	Peach-orange
+fadfad	Peach-yellow
+d1e231	Pear
+eae0c8	Pearl
+88d8c0	Pearl Aqua
+b768a2	Pearly purple
+f5f3ef	Penguin White
+e6e200	Peridot
+c3cde6	Periwinkle (Crayola)
+e12c2c	Permanent Geranium Lake
+1c39bb	Persian blue
+00a693	Persian green
+32127a	Persian indigo
+d99058	Persian orange
+f77fbe	Persian pink
+701c1c	Persian plum
+cc3333	Persian red
+fe28a2	Persian rose
+ec5800	Persimmon
+934337	Persimmon-juice color (Kakishibu-iro)
+cd853f	Peru
+8ba8b7	Pewter Blue
+0038a7	Philippine blue
+6e3a07	Philippine bronze
+5d1916	Philippine brown
+b17304	Philippine gold
+8c8c8c	Philippine gray
+008543	Philippine green
+ff7300	Philippine orange
+fa1a8e	Philippine pink
+ce1127	Philippine red
+b3b3b3	Philippine silver
+81007f	Philippine violet
+fecb00	Philippine yellow
+df00ff	Phlox
+000f89	Phthalo blue
+123524	Phthalo green
+45b1e8	Picton blue
+c30b4e	Pictorial carmine
+fddde6	Piggy pink
+01796f	Pine green
+454d32	Pine needle color (Matsuba-iro)
+2a2f23	Pine tree
+563c0d	Pineapple
+ffc0cb	Pink
+d74894	Pink (Pantone)
+fc74fd	Pink flamingo
+ffddf4	Pink lace
+d8b2d1	Pink lavender
+e7accf	Pink pearl
+980036	Pink raspberry
+f78fa7	Pink Sherbet
+93c572	Pistachio
+391285	Pixie Powder
+6e5f57	Plain mouse (Sunezumi)
+e5e4e2	Platinum
+8e4585	Plum
+8f4155	Plum purple (Umemurasaki)
+97645a	Plum-blossom mouse (Umenezumi)
+fa9258	Plum-dyed (Umezome)
+5946b2	Plump Purple
+35654d	Poker Green
+985538	Polished brown (Tonocha)
+5da493	Polished Pine
+660c21	Pomegranate
+96a53c	Pomelo
+bfbd70	Pomelo Olive
+f9ffe3	Pomelo White
+f6a08c	Poppy Petal
+be4f62	Popstar
+936900	Porcupine
+ff5a36	Portland Orange
+b0e0e6	Powder blue
+ff85cf	Princess Perfume
+f58025	Princeton orange
+003153	Prussian blue
+003171	Prussian blue color (Konjō-iro)
+cc8899	Puce
+722f37	Puce red
+644117	Pullman Brown (UPS Brown)
+3b331c	Pullman Green
+ff7518	Pumpkin
+c3272b	Pure crimson (dye) (Akabeni)
+6a0dad	Purple
+9f00c5	Purple (Munsell)
+4f284b	Purple (Murasaki)
+a020f0	Purple (X11)
+69359c	Purple Heart
+512c31	Purple kite (Murasakitobi)
+9678b6	Purple mountain majesty
+4e5180	Purple navy
+fe4eda	Purple pizzazz
+9c51b6	Purple Plum
+50404d	Purple taupe
+9a4eae	Purpureus
+51484f	Quartz
+436b95	Queen blue
+e8ccd7	Queen pink
+a6a6a6	Quick Silver
+8e3a59	Quinacridone magenta
+6a5445	Quincy
+491e3c	Rabbit-ear iris (Kakitsubata)
+ff355e	Radical Red
+242124	Raisin black
+fbab60	Rajah
+c71232	Rambutan
+a72127	Rambutan Red
+e3b130	Rape-blossom brown (Nanohanacha)
+a17917	Rapeseed oil-colored (Nataneyu-iro)
+e30b5d	Raspberry
+e25098	Raspberry pink
+d68a59	Raw Sienna
+826644	Raw umber
+ff33cc	Razzle dazzle rose
+e3256b	Razzmatazz
+8d4e85	Razzmic Berry
+663399	Rebecca Purple
+ff0000	Red
+ee204d	Red (Crayola)
+f2003c	Red (Munsell)
+c40233	Red (NCS)
+fe2712	Red (RYB)
+672422	Red bean color (Azuki-iro)
+9d2b22	Red birch (Benikaba)
+b62020	Red cola
+860111	Red devil
+f07f5e	Red incense-colored (Akakō-iro)
+913228	Red kite (bird species) (Benitobi)
+9f5233	Red ochre color (Taisha-iro)
+db5a6b	Red plum colored (Kōbai-iro)
+fd3a4a	Red Salsa
+bb7796	Red wisteria (Benifuji)
+fb8136	Red-bronze (lit. red dye and turmeric) (Beniukon)
+a13d2d	Red-brown (Edo brown) (Edocha)
+8b352d	Red-brown (lit. chestnut-plum) (Kiriume)
+ff4500	Red-orange (Color wheel)
+dc3023	Red-orange (lit. orangutan-colored) (Shōjōhi)
+e40078	Red-purple
+922b3e	Red-violet (Color wheel)
+c0448f	Red-violet (Crayola)
+a45a52	Redwood
+522d80	Regalia
+002387	Resolution blue
+777696	Rhythm
+004040	Rich black
+010b13	Rich black (FOGRA29)
+010203	Rich black (FOGRA39)
+f1a7fe	Rich brilliant lavender
+0892d0	Rich electric blue
+f57f4f	Rich gardenia (Kokikuchinashi)
+a76bcf	Rich lavender
+b666d2	Rich lilac
+444c38	Rifle green
+534a32	Rikan brown (Rikancha)
+ff7952	Rinsed-out red (Araishu)
+ffc324	Ripe mango
+00cccc	Robin egg blue
+8a7f80	Rocket metallic
+838996	Roman silver
+290e05	Root beer
+f9429e	Rose bonbon
+9e5e6f	Rose Dust
+674846	Rose ebony
+960145	Rose garnet
+b76e79	Rose gold
+ff66cc	Rose pink
+bd559c	Rose quartz pink
+c21e56	Rose red
+905d5d	Rose taupe
+ab4e52	Rose vale
+65000b	Rosewood
+d40000	Rosso corsa
+bc8f8f	Rosy brown
+0038a8	Royal azure
+002366	Royal blue (dark)
+4169e1	Royal blue (light)
+523b35	Royal brown
+ca2c92	Royal fuchsia
+136207	Royal green
+f99245	Royal orange
+e73895	Royal pink
+7851a9	Royal purple
+d00060	Royal red
+9b1c31	Royal red
+ce4676	Ruber
+d10056	Rubine red
+e0115f	Ruby
+9b111e	Ruby red
+ff0028	Ruddy
+bb6528	Ruddy brown
+e18e96	Ruddy pink
+a81c07	Rufous
+716675	Rum
+80461b	Russet
+679267	Russian green
+32174d	Russian violet
+b7410e	Rust
+6a7f7a	Rusted light-blue (Sabiasagi)
+898a74	Rusty celadon (Sabiseiji)
+da2c43	Rusty red
+455859	Rusty storage (Sabionando)
+3a403b	Rusty storeroom (Sabitetsuonando)
+043927	Sacramento State green
+8b4513	Saddle brown
+ff7800	Safety orange
+ff6700	Safety orange (blaze orange)
+eed202	Safety yellow
+5a4f74	Safflower color (Benikakehana-iro)
+f4c430	Saffron
+bcb88a	Sage
+fa8072	Salmon
+ff91a4	Salmon pink
+e7968b	Salmon Rose
+12279e	Samsung blue
+ecd540	Sandstorm
+f4a460	Sandy brown
+fdd9b5	Sandy Tan
+92000a	Sangria
+507d2a	Sap green
+7e2639	Sappanwood (Suō)
+a24f46	Sappanwood incense (Suōkō)
+0f52ba	Sapphire
+ff4681	Sasquatch Socks
+cba135	Satin sheen gold
+ec956c	Sawtooth oak (Akashirotsurubami)
+ff2400	Scarlet
+cf3a24	Scarlet (blood) (Ake)
+ffd800	School bus yellow
+351f19	Scorched brown (Kogecha)
+66ff66	Screamin' Green
+006994	Sea blue
+9fe2bf	Sea Foam Green
+2e8b57	Sea green
+00ffcd	Sea green (Crayola)
+4bc7cf	Sea Serpent
+59260b	Seal brown
+fff5ee	Seashell
+ffba00	Selective yellow
+826b58	Sen no Rikyu's tea (Rikyūcha)
+704214	Sepia
+00a870	Sesame Street Green
+8a795d	Shadow
+778ba5	Shadow blue
+ffcff1	Shampoo
+009e60	Shamrock green
+ffe670	Shandy
+8fd400	Sheen green
+d98695	Shimmering Blush
+5fa778	Shiny Shamrock
+fc0fc0	Shocking pink
+ff6fff	Shocking pink (Crayola)
+354e4b	Silk crepe brown (Omeshicha)
+aaa9ad	Silver (Metallic)
+acacac	Silver chalice
+afb1ae	Silver foil
+5d89ba	Silver Lake blue
+c4aead	Silver pink
+bfc1c2	Silver sand
+97867c	Silver-grey (Ginnezumi)
+4c3d30	Simmered seaweed (Mirucha)
+cb410b	Sinopia
+7a942e	Siskin sprout yellow (Hiwamoegi)
+ff3855	Sizzling Red
+ffdb00	Sizzling Sunrise
+007474	Skobeloff
+87ceeb	Sky blue
+76d7ea	Sky blue (Crayola)
+4d8fac	Sky Blue color (Sora-iro)
+cf71af	Sky magenta
+6a5acd	Slate blue
+708090	Slate gray
+299617	Slimy green
+ff6d3a	Smashed Pumpkin
+c84186	Smitten
+738276	Smoke
+832a0d	Smokey Topaz
+100c08	Smoky black
+933d41	Smoky Topaz
+fffafa	Snow
+cec8ef	Soap
+545a2c	Soldier Green
+893843	Solid pink
+757575	Sonic silver
+4d4b3a	Sooty willow bamboo (Yanagisusutake)
+1d2951	Space cadet
+807532	Spanish bistre
+0070b8	Spanish blue
+d10047	Spanish carmine
+e51a4c	Spanish crimson
+989898	Spanish gray
+009150	Spanish green
+e86100	Spanish orange
+f7bfbe	Spanish pink
+66033c	Spanish purple
+e60026	Spanish red
+4c2882	Spanish violet
+007f5c	Spanish viridian
+f6b511	Spanish yellow
+8c4736	Sparrow-brown (Suzumecha)
+9e1316	Spartan Crimson
+8b5f4d	Spicy mix
+b35c44	Spicy red-brown (Chinese tea brown) (Karacha)
+0fc0fc	Spiro Disco Ball
+fdfe03	Sponge
+a7fc00	Spring bud
+87ff2a	Spring Frost
+ec2131	Sprint Red
+ffdd05	Sprint Yellow
+23297a	St. Patrick's blue
+78779b	Stained red (Benimidori)
+007bb8	Star command blue
+d3b17d	Steamed chestnut color (Mushikuri-iro)
+4682b4	Steel blue
+cc33cc	Steel pink
+5f8a8b	Steel Teal
+a09484	Stone Terrace
+cf142b	Stop red
+3d4035	Storeroom brown (Onandocha)
+4f666a	Stormcloud
+e4d96f	Straw
+fc5a8d	Strawberry
+d9463e	Strawberry Daiquiri
+8b171a	Strawberry Jam
+c83f49	Strawberry red
+e9399e	Strong boy pink
+ffa26b	Stylish persimmon (Sharegaki)
+914e75	Sugar Plum
+e08a1e	Sumac-dyed (Hajizome)
+592b1f	Sumac-dyed (Kōrozen)
+ff404c	Sunburnt Cyclops
+ffcc33	Sunglow
+f2f27a	Sunny
+e3ab57	Sunray
+fd5e53	Sunset Orange
+ffc922	Sunset Yellow
+cf6ba9	Super pink
+a83731	Sweet Brown
+f29eab	Sweet Sixteen
+d2b48c	Tan
+d99a6c	Tan (Crayola)
+f94d00	Tangelo
+f28500	Tangerine
+ffcc00	Tangerine yellow
+ff4200	Taobao Orange
+003b6f	Tardis blue
+fb4d46	Tart Orange
+976e9a	Tatarian aster color (Shion-iro)
+8b8589	Taupe gray
+d0f0c0	Tea green
+008080	Teal
+367588	Teal blue
+99e6b3	Teal deer
+00827f	Teal green
+cf3476	Telemagenta
+3c2126	Temptress
+cd5700	Tenné (tawny)
+e2725b	Terra cotta
+785e49	The color of an undried wall (Namakabe-iro)
+a87ca0	Thin color (Usu-iro)
+d8bfd8	Thistle
+ebb0d7	Thistle (Crayola)
+317589	Thousand herb color (Chigusa-iro)
+3b3429	Thousand year old brown (Sensaicha)
+374231	Thousand year old green (Sensaimidori)
+f7665a	Thrice-dyed crimson (Jinzamomi)
+fc89ac	Tickle Me Pink
+0abab5	Tiffany Blue
+e08d3c	Tiger's Eye
+dbd7d2	Timberwolf
+878681	Titanium
+eee600	Titanium yellow
+ff6347	Tomato
+b21807	Tomato sauce
+746cc0	Toolbox
+ffc87c	Topaz
+fd0e35	Tractor red
+a4345d	Tree peony (Bōtan)
+808080	Trolley grey
+00755e	Tropical rain forest
+cda4de	Tropical violet
+0073cf	True Blue
+2d68c4	True Blue
+8f1d21	True red (Shinshu)
+3e8ede	Tufts blue
+ff878d	Tulip
+deaa88	Tumbleweed
+b57281	Turkish rose
+e69b3a	Turmeric-colored (Ukon-iro)
+40e0d0	Turquoise
+00ffef	Turquoise blue
+a0d6b4	Turquoise green
+00c5cd	Turquoise Surf
+7c4848	Tuscan red
+c09999	Tuscany
+8a496b	Twilight lavender
+26a7de	Twitter blue
+0033aa	UA blue
+d9004c	UA red
+8878c3	Ube
+536895	Ucla Blue
+ffb300	Ucla Gold
+ba0001	UE red
+3cd070	UFO Green
+fc6c85	Ultra red
+4166f5	Ultramarine blue
+5d8cae	Ultramarine color (Gunjō-iro)
+635147	Umber
+ffddca	Unbleached silk
+bcb58c	Underside of willow leaves (Urahayanagi)
+5b92e5	United Nations blue
+b78727	University Of California Gold
+f77f00	University Of Tennessee Orange
+7b1113	UP maroon
+ae2029	Upsdell red
+e1ad21	Urobilin
+004f98	USAFA blue
+d3003f	Utah Crimson
+080808	Vampire black
+664228	Van Dyke brown
+f38fa9	Vanilla ice
+c5b358	Vegas gold
+224634	Velvet (Birōdo)
+c80815	Venetian red
+43b3ae	Verdigris
+cd040b	Verizon Red
+ec1c24	Verizon Red (2000-2015)
+d9381e	Vermilion
+18880d	Verse green
+74bbfb	Very light azure
+6666ff	Very light blue
+64e986	Very light malachite green
+ffb077	Very light tangelo
+ffdfbf	Very pale orange
+ffffbf	Very pale yellow
+6d2b50	Vine grape (Ebizome)
+38a32a	Vine Green
+7f00ff	Violet (color wheel)
+963d7f	Violet (crayola)
+8601af	Violet (RYB)
+324ab2	Violet-blue
+766ec8	Violet-blue (Crayola)
+f75394	Violet-red
+891446	Violet-red
+8366f4	Violets Are Blue
+674403	Violin Brown
+009698	Viridian green
+7c9ed9	Vista blue
+ef3939	Vivaldi Red
+922724	Vivid auburn
+9f1d35	Vivid burgundy
+da1d81	Vivid cerise
+00aaee	Vivid cerulean
+cc0033	Vivid crimson
+ff9900	Vivid gamboge
+a6d608	Vivid lime green
+00cc33	Vivid malachite
+b80ce3	Vivid mulberry
+ff5f00	Vivid orange
+ffa000	Vivid orange peel
+cc00ff	Vivid orchid
+ff006c	Vivid raspberry
+f70d1a	Vivid red
+df6124	Vivid red-tangelo
+00ccff	Vivid sky blue
+f07427	Vivid tangelo
+ffa089	Vivid tangerine
+e56024	Vivid vermilion
+9f00ff	Vivid violet
+ffe302	Vivid yellow
+bfc0ee	Vodka
+ceff00	Volt
+34b233	Wageningen Green
+9f7462	Walnut-dyed (Kurumizome)
+004242	Warm black
+ffb3a7	Washed-out crimson (dye) (Arazome)
+ec8254	Washed-out persimmon (Araigaki)
+d4f1f9	Water
+b56c60	Water persimmon (Mizugaki)
+eeff1b	Watermelon Yellow
+a4f4f9	Waterspout
+593a27	Weathered bamboo (lit. "sooty") (Susutake-iro)
+1f8eed	Weebly Blue
+ff9a00	Weebly Orange
+7c98ab	Weldon Blue
+645452	Wenge
+f5deb3	Wheat
+ffffff	White
+ede6d6	White chocolate
+e6e0d4	White coffee
+b9a193	White mouse (Shironezumi)
+ce9f6f	White oak (Shirotsurubami)
+c48e69	White tea-colored (Shiracha)
+a5ba93	Whitish green (Byakuroku)
+a2add0	Wild blue yonder
+d470a2	Wild orchid
+ff43a4	Wild Strawberry
+8c9e5e	Willow dye (Yanagizome)
+817b69	Willow grey (Yanaginezumi)
+9c8a4d	Willow tea (Yanagicha)
+fd5800	Willpower orange
+ab4c3d	Wilted brown (lit. wilted lawn-clippings) (Shikancha)
+a75502	Windsor tan
+b11226	Wine red
+ff007c	Winter Sky
+a0e6ff	Winter Wizard
+56887d	Wintergreen Dream
+c9a0dc	Wisteria
+4d3b3c	Wisteria and burnt-bamboo (Fujisusutake)
+89729e	Wisteria color (Fuji-iro)
+875f9a	Wisteria purple (Fujimurasaki)
+738678	Xanadu
+0e7a0d	Xbox Green
+fd4900	Xiaomi Orange
+0f4d92	Yale Blue
+1c2841	Yankees blue
+ffff00	Yellow
+fce883	Yellow (Crayola)
+efcc00	Yellow (Munsell)
+fedf00	Yellow (Pantone)
+fefe33	Yellow (RYB)
+ffae42	Yellow Orange
+ff9505	Yellow Orange (Color Wheel)
+fff000	Yellow rose
+896c39	Yellow Sea pine-brown (Kimirucha)
+9acd32	Yellow-green
+30b21a	Yellow-green (Color Wheel)
+c5e384	Yellow-green (Crayola)
+2e5090	YInMn Blue
+6b9362	Young bamboo color (Wakatake-iro)
+b2071d	Youtube red
+0014a8	Zaffre
+ebc2af	Zinnwaldite
+2c1608	Zinnwaldite brown
+39a78e	Zomp
