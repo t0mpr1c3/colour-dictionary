@@ -1478,7 +1478,7 @@ fc5a8d	Strawberry
 d9463e	Strawberry Daiquiri
 8b171a	Strawberry Jam
 c83f49	Strawberry Red
-e9399e	Strong boy Pink
+e9399e	Strong Boy Pink
 ffa26b	Stylish Persimmon (Sharegaki)
 914e75	Sugar Plum
 e08a1e	Sumac-Dyed (Hajizome)
