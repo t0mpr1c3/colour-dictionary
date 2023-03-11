@@ -641,7 +641,7 @@ ab92b3	Glossy Grape
 a57c00	Gold
 e6be8a	Gold (Crayola)
 d4af37	Gold (Metallic)
-bd9b16	Gold foil
+bd9b16	Gold Foil
 85754e	Gold Fusion
 cb7e1f	Gold-Brown (Yamabukicha)
 ffd700	Golden
@@ -915,7 +915,7 @@ eaa221	Marigold
 5e2824	Maroon Shrimp (Ebicha)
 b03060	Maroon (X11)
 e0b0ff	Mauve
-915f6d	Mauve taupe
+915f6d	Mauve Taupe
 ef98aa	Mauvelous
 47abcc	Maximum Blue
 30bfbf	Maximum Blue Green
@@ -1287,7 +1287,7 @@ db5a6b	Red Plum (Kōbai-iro)
 fd3a4a	Red Salsa
 bb7796	Red Wisteria (Benifuji)
 fb8136	Red-Bronze (Beniukon)
-a13d2d	Edo Brown (Edocha)
+a13d2d	Edō Brown (Edocha)
 8b352d	Chestnut Plum (Kiriume)
 ff4500	Red-Orange (Color wheel)
 dc3023	Orangutan (Shōjōhi)
@@ -1516,8 +1516,8 @@ a87ca0	Thin Color (Usu-iro)
 d8bfd8	Thistle
 ebb0d7	Thistle (Crayola)
 317589	Thousand Herb (Chigusa-iro)
-3b3429	Thousand-Year Brown (Sensaicha)
-374231	Thousand-Year Green (Sensaimidori)
+3b3429	Thousand Year Brown (Sensaicha)
+374231	Thousand Year Green (Sensaimidori)
 f7665a	Thrice-dyed Crimson (Jinzamomi)
 fc89ac	Tickle Me Pink
 0abab5	Tiffany Blue
@@ -1564,8 +1564,8 @@ fc6c85	Ultra Ted
 ffddca	Unbleached Silk
 bcb58c	Underside of Willow Leaves (Urahayanagi)
 5b92e5	United Nations Blue
-b78727	University Of California Gold
-f77f00	University Of Tennessee Orange
+b78727	University of California Gold
+f77f00	University of Tennessee Orange
 7b1113	UP Maroon
 ae2029	Upsdell Red
 e1ad21	Urobilin
@@ -1597,7 +1597,7 @@ ffffbf	Very Pale Yellow
 766ec8	Violet-Blue (Crayola)
 f75394	Violet-Red
 891446	Violet-Red
-8366f4	Violets Are Blue
+8366f4	Violets are Blue
 674403	Violin Brown
 009698	Viridian Green
 7c9ed9	Vista Blue
@@ -1628,8 +1628,8 @@ ceff00	Volt
 34b233	Wageningen Green
 9f7462	Walnut-Dyed (Kurumizome)
 004242	Warm Black
-ffb3a7	Washed-Out Crimson (Arazome)
-ec8254	Washed-Out Persimmon (Araigaki)
+ffb3a7	Washed-out Crimson (Arazome)
+ec8254	Washed-out Persimmon (Araigaki)
 d4f1f9	Water
 b56c60	Water Persimmon (Mizugaki)
 eeff1b	Watermelon Yellow
