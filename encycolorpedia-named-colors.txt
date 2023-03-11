@@ -170,7 +170,7 @@ a2a2d0	Blue Bell
 4f86f7	Blueberry
 1c1cf0	Bluebonnet
 de5d83	Blush
-542d24	Boiled Red Bean Brown (Momoshiocha)
+542d24	Boiled Red Bean (Momoshiocha)
 79443b	Bole
 0095b6	Bondi Blue
 e3dac9	Bone
