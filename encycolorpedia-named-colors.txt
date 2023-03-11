@@ -110,7 +110,7 @@ fa6e79	Begonia
 f5f5dc	Beige
 5d3f6a	Bellflower(Kikyō-iro)
 352925	Betel Nut Dye (Binrōjizome)
-9c2542	Big Dip O’Ruby
+9c2542	Big Dip O'Ruby
 e88e5a	Big Foot Feet
 b14a30	Birch Brown (Kabacha)
 ffe4c4	Bisque
