@@ -1,4 +1,4 @@
-# scrape colour names from https://www.htmlcsscolor.com/
+# scrape colour names from https://www.htmlcsscolor.com/ and https://encycolorpedia.com/
 
 require(rvest)
 require(dplyr)
